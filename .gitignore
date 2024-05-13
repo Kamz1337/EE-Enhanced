@@ -86,3 +86,5 @@ Lock
 !/Extra
 
 !.gitignore
+/Engine/Engine/x64
+Editor Source/_Build_/Titan Editor/Titan Editor
